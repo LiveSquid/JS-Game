@@ -1,4 +1,4 @@
-#canvas1{
+/* #canvas1{
     border: 5px solid black;
     position: absolute;
     top: 50%;
@@ -14,10 +14,19 @@
     left: 50%;
     transform: translateX(-50%);
 }
-/* .controls label{
-    margin-right: 10px;
-} */
 .controls, select, option {
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+body {
+    background: black;
+}
+#canvas2{
+    position: absolute;
+    border: 3px solid white;
+    width: 800px;
+    height: 700px;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%
 }
