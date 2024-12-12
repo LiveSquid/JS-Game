@@ -7,3 +7,17 @@
     width: 600px;
     height: 600px;
 }
+.controls {
+    position: absolute;
+    z-index: 10;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+/* .controls label{
+    margin-right: 10px;
+} */
+.controls, select, option {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
