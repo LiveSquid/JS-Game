@@ -18,7 +18,10 @@
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 } */
-body {
+
+
+
+/* body {
     background: black;
 }
 #container {
@@ -40,4 +43,16 @@ body {
 p {
     color:  white;
     font-size: 25px;
+} */
+
+
+
+#canvas3 {
+    position: absolute;
+    border: 3px solid black;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 900px;
+    width: 450px;
 }
