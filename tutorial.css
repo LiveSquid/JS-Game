@@ -47,7 +47,7 @@ p {
 
 
 
-/* #canvas3 {
+#canvas3 {
     position: absolute;
     border: 3px solid black;
     top: 50%;
@@ -55,11 +55,11 @@ p {
     transform: translate(-50%, -50%);
     height: 900px;
     width: 450px;
-} */
+}
 
 
 
-#canvas4 {
+/* #canvas4 {
     position: absolute;
     border: 3px solid black;
     top: 50%;
@@ -68,4 +68,4 @@ p {
     height: 700px;
     width: 500px;
     background: black;
-}
+} */
