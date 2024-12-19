@@ -1,4 +1,4 @@
 # JS-Game
-This is some simple sprite animation I have created which i will use later on in a game. 
+This is a simple point and shoot game I made in javascript.
 
 If you enjoy please vote <3
